@@ -1,0 +1,7 @@
+[
+  {
+    "kty": "oct",
+    "alg": "HS256",
+    "k": "your-256-bit-secret"
+  }
+]
