@@ -1,4 +1,7 @@
 {
   "issuer": "https://raw.githubusercontent.com/aeneasr/private-oidc/master",
-  "token_url": "http://127.0.0.5/from-remote"
+  "authorization_endpoint": "http://127.0.0.5/from-remote",
+  "token_endpoint": "http://127.0.0.6from-remote",
+  "jwks_uri": "https://raw.githubusercontent.com/aeneasr/private-oidc/master/.well-known/jwks.json",
+  "userinfo_endpoint": "http://127.0.0.7/from-remote"
 }
